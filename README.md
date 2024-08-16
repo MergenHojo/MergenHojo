@@ -2,7 +2,7 @@
 - 👀 I’m interested in front End web/mobile
 - 🌱 I’m currently learning reactjs
 - 📫 How to reach me @mergen___hojaberdiyew
-- 😄 Pronouns: ...
+- 😄 AI Enthusiast
 - ⚡ Fun fact: ...
 
 <!---
